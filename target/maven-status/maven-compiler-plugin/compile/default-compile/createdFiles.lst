@@ -1,0 +1,5 @@
+com\energiainteligente\controller\EnergiaController.class
+com\energiainteligente\client\ClimaClient.class
+com\energiainteligente\service\EnergiaService.class
+com\energiainteligente\EnergiaInteligenteApplication.class
+com\energiainteligente\model\EnergiaStatusDTO.class
