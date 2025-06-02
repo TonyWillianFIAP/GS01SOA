@@ -105,21 +105,3 @@ cd energia-inteligente-java
 mvn spring-boot:run
 
 Acesse: http://localhost:8080/energia/status
-🌍 Configuração da API OpenWeather
-
-No arquivo application.properties, insira sua chave:
-
-openweather.apikey=SUA_CHAVE_AQUI
-
-Cadastre-se gratuitamente em: https://openweathermap.org/api
-📄 Licença
-
-
-📬 Contato
-
-Dúvidas ou sugestões? Abra uma issue ou envie um pull request.
-
-
----
-
-Se quiser, posso gerar um `README` alternativo em inglês, um diagrama de arquitetura ou uma versão com b
